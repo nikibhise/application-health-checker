@@ -1,0 +1,5 @@
+INFO: Application Started
+INFO: User login successful
+ERROR: Database connection failed
+WARNING: Low disk space
+ERROR: Api request timeout
